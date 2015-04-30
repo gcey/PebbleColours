@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "GCE",
+    "longName": "Colours",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Colours",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "5e9c8b60-dab1-47aa-bd96-8cd05ea18c0e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
